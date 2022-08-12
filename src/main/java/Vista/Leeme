@@ -1,0 +1,23 @@
+Proyecto Realizado por:
+Jesus Gabriel Tolosa Zabala
+
+RETO 5 mision tic UTP ciclo 2 
+
+nos piden un ejercicio de CONTINUACION de dos retos anteriores, en el cual uno de ellos era el manejo de sentencias 
+SQL para una base de datos que nos habian asignado, y otro fue realizar unas consultas en consola de dicha base de datos
+con especificaciones puntuales 
+
+Se crea proyecto bajo la arquitectura MVC con 4 paquetes 
+
+package Clases: contiene las tres clases principales del sistema Compra, Lider y Proyecto en el cual vamos a relaizar 
+un informe
+package Controlador: contiene las tres clases controladoras de los tres objetos mensionados anteriormente
+package Modelo: contiene la conexion a la DB mediante la dependecia sqlite-jdbc y sus tres clases del modelo del sistema
+package Vista: contiene la capa de vista o front del usuario y un archivo leeme describiendo el proyecto
+
+el reto consiste en realizar un informe de tres tablas con informacion especifica, luego crear un video explicando 
+dicho reto y por ultimo subir el ejercicio en un github 
+
+
+
+
